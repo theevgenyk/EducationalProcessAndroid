@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shpora</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="shpora_title">
+        <item>Функциональные</item>
+        <item>Нефункциональные</item>
+        <item>Связанные с изменениями</item>
+    </string-array>
+
+    <string-array name="names_files">
+        <item>file1</item>
+        <item>file2</item>
+        <item>file3</item>
+    </string-array>
+</resources>
